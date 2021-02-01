@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\OUD_GITHUB_PROBA_CZWARTA.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\OUD_GITHUB_PROBA_CZWARTA.dir/objects.a @CMakeFiles\OUD_GITHUB_PROBA_CZWARTA.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\OUD_GITHUB_PROBA_CZWARTA.dir/objects.a -Wl,--no-whole-archive  -o OUD_GITHUB_PROBA_CZWARTA.exe -Wl,--out-implib,libOUD_GITHUB_PROBA_CZWARTA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OUD_GITHUB_PROBA_CZWARTA.dir\linklibs.rsp
